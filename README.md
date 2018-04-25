@@ -13,7 +13,8 @@
 ### shnnam@yonsei.ac.kr
 # 셋째날 구글 드라이버 실습 환경 위치
 ## https://drive.google.com/drive/folders/1DsVqa9zTWQUNoAAnHJkkDmbRBcqtg7L1
-
+## keras 실습
+### https://keras.io/
 
 # github setting
 ## create a new repository on the command line
