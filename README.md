@@ -7,6 +7,8 @@
 # 둘째날 구글 드라이버 실습 환경 위치
 ## https://colab.research.google.com/drive/1MKQgwlb-yrkjxfnQToYh2Ev6SnK9HAfC#scrollTo=YVI_BxYLYX_O&uniqifier=2
 ## 해당 소스에는 ./20180424_SK_Lab2/style_transfer/imagenet-vgg-verydeep-19 이 파일은 사이즈가 커서 데이터가 존재하지 않는다. 그러나 실습 위치에는 존재한다.
+## 두번째 실습 조교님 이메일
+### shnnam@yonsei.ac.kr
 # github setting
 ## create a new repository on the command line
 ## echo "# Lecture_20180423" >> README.md
